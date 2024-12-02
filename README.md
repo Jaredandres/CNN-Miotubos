@@ -6,6 +6,14 @@ A continuación, se muestra la organización del documento **CNN**, que se encue
 
 ![Explicación del reto](https://github.com/user-attachments/assets/0a96eeee-d891-4b3a-a95e-97a5a7bf4f33)
 
+## **Parte 0 - Exploración de datos y segmentación**
+
+En primer lugar, se realizó un análisis de los datos para comprender la problemática y definir los requisitos del proyecto. Como parte de este proceso, se segmentaron manualmente alrededor de 200 imágenes.
+
+![Exploración de datos y segmentación](https://github.com/user-attachments/assets/8e249703-df6d-4748-a607-d6e897a0d0af)
+
+---
+
 ## **Parte 1 - Filtros**
 
 Se exploró una variedad de filtros para observar cómo reaccionaban las imágenes a ellos y determinar si era necesario su uso.
@@ -61,6 +69,12 @@ La primera sección del código se encarga únicamente de generar la predicción
 
 La segunda sección combina las imágenes predichas y las convierte en un video. Puedes visualizar un ejemplo del resultado aquí:
 
-[Video ejemplo - Predicción de imágenes](https://youtu.be/5XDVs9lTTvA)  
-[Video ejemplo alternativo](https://youtu.be/5XDVs9lTTvA)
+[Video1 ](https://youtu.be/5XDVs9lTTvA)  
+[Video2 ](https://youtu.be/5XDVs9lTTvA)
+
+---
+
+## **Investigación**
+
+Si desea saber más acerca de cómo fue realizado el modelo, puede leer nuestra investigación que se encuentra en la carpeta del reto.
 
