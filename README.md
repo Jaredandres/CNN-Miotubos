@@ -39,10 +39,28 @@ Se entrenó una **CNN - U-net** utilizando un total de **585 imágenes**. Los re
 
 ![Resultados 1](https://github.com/user-attachments/assets/c8519d93-c0b8-40e4-9f34-645b158a91ae)  
 ![Resultados 2](https://github.com/user-attachments/assets/10e95305-6372-4a7d-b4e3-27005cb328e5)  
-![Segmentación](https://github.com/user-attachments/assets/e404d16f-5cf5-4868-89c0-61d943cb0282)
+
 
 ---
 
 # **Manual de uso para utilizar el modelo**
 
-*(Agrega aquí las instrucciones detalladas para ejecutar el modelo y los requerimientos técnicos si aún no las tienes).*
+En este repositorio se encuentra un archivo llamado **MODEL.h5**, que corresponde al modelo entrenado. Este modelo será utilizado en el archivo **Time-lapse.ipynb**, ubicado en la carpeta del reto. Este código se divide en dos partes importantes:
+
+---
+
+### **Primera parte: Predicción de imágenes**
+
+La primera sección del código se encarga únicamente de generar la predicción de las imágenes.
+
+![Predicción](https://github.com/user-attachments/assets/e404d16f-5cf5-4868-89c0-61d943cb0282)
+
+---
+
+### **Segunda parte: Creación de video**
+
+La segunda sección combina las imágenes predichas y las convierte en un video. Puedes visualizar un ejemplo del resultado aquí:
+
+[Video ejemplo - Predicción de imágenes](https://youtu.be/5XDVs9lTTvA)  
+[Video ejemplo alternativo](https://youtu.be/5XDVs9lTTvA)
+
