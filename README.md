@@ -53,7 +53,10 @@ Se entrenó una **CNN - U-net** utilizando un total de **585 imágenes**. Los re
 
 # **Manual de uso para utilizar el modelo**
 
-En este repositorio se encuentra un archivo llamado **MODEL.h5**, que corresponde al modelo entrenado. Este modelo será utilizado en el archivo **Time-lapse.ipynb**, ubicado en la carpeta del reto. Este código se divide en dos partes importantes:
+En el siguiente link se encuentra un archivo llamado **MODEL.h5**, que corresponde al modelo entrenado. Este modelo será utilizado en el archivo **Time-lapse.ipynb**, ubicado en la carpeta del reto. Este código se divide en dos partes importantes:
+
+[Enlace a la carpeta de Google Drive](https://drive.google.com/drive/folders/1w1J3HOnHG8MdVkKiX7Y2c0fCKckYTlaT?usp=drive_link)
+
 ![image](https://github.com/user-attachments/assets/a41be7d9-0013-44bb-b8ec-e147105d766a)
 
 
