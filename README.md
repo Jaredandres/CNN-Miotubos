@@ -43,7 +43,7 @@ Se implementaron técnicas de aumento de datos, incluyendo rotaciones de 90°, 1
 
 ## **Parte 4 - Entrenamiento de la CNN**
 
-Se entrenó una **CNN - U-net** utilizando un total de **585 imágenes**. Los resultados obtenidos fueron los siguientes:
+Se entrenó una **CNN - U-net** utilizando un total de **585 imágenes**. Fue evaluado con diferentes métricas tomando como principal la **precisión** Los resultados obtenidos fueron los siguientes:
 
 ![Resultados 1](https://github.com/user-attachments/assets/c8519d93-c0b8-40e4-9f34-645b158a91ae)  
 ![Resultados 2](https://github.com/user-attachments/assets/10e95305-6372-4a7d-b4e3-27005cb328e5)  
