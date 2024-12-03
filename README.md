@@ -2,6 +2,8 @@
 
 A continuación, se muestra la organización del documento **CNN**, que se encuentra en la carpeta de **RETO**. Se explicará brevemente lo realizado en cada parte:
 
+**IMPOTANTE** este reto fue realizado cuidadosamente, ya que estamos trabajando con datos privados, los cuales nunca fueron compartidos a 3 eros ni se vieron vulnerables en ningún momento.
+
 ---
 
 ![Explicación del reto](https://github.com/user-attachments/assets/0a96eeee-d891-4b3a-a95e-97a5a7bf4f33)
